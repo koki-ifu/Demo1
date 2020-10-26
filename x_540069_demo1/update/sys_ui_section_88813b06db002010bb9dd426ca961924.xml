@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="88813b06db002010bb9dd426ca961924" sys_domain="global" table="x_540069_demo1_order" version="3" view="Tables">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-26 02:40:51</sys_created_on>
+            <sys_id>abf9ff4edb002010bb9dd426ca9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_demo1_order" sys_domain="global" view="0eb16b9fd87610100c1d056eb83723c9">88813b06db002010bb9dd426ca961924</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-26 02:40:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-26 02:40:51</sys_created_on>
+            <sys_id>2ff9ff4edb002010bb9dd426ca9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_demo1_order" sys_domain="global" view="0eb16b9fd87610100c1d056eb83723c9">88813b06db002010bb9dd426ca961924</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-26 02:40:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-26 02:40:51</sys_created_on>
+            <sys_id>aff9ff4edb002010bb9dd426ca9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_demo1_order" sys_domain="global" view="0eb16b9fd87610100c1d056eb83723c9">88813b06db002010bb9dd426ca961924</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-26 02:40:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>descriptions</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-26 02:40:51</sys_created_on>
+            <sys_id>23f9ff4edb002010bb9dd426ca9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_demo1_order" sys_domain="global" view="0eb16b9fd87610100c1d056eb83723c9">88813b06db002010bb9dd426ca961924</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-26 02:40:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_540069_demo1_order</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-26 02:03:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88813b06db002010bb9dd426ca961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_demo1_order</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+            <sys_update_name>sys_ui_section_88813b06db002010bb9dd426ca961924</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-26 02:03:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="テーブル" name="Tables">0eb16b9fd87610100c1d056eb83723c9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

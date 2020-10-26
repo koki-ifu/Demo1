@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="storage_state" label="ストレージ状況" language="en" table="x_540069_demo1_order">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>storage_state</element>
+            <help/>
+            <hint/>
+            <label>ストレージ状況</label>
+            <language>en</language>
+            <name>x_540069_demo1_order</name>
+            <plural>ストレージ状況s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-21 08:32:37</sys_created_on>
+            <sys_id>e38a97a0db40a010bb9dd426ca961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ストレージ状況</sys_name>
+            <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_540069_demo1_order_storage_state_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-21 08:32:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

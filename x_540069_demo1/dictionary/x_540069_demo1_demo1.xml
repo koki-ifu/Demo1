@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="u_cmdb_ci_user_system" label="ユーザーシステム_Demo1" max_length="40" name="x_540069_demo1_demo1" sizeclass="0" type="collection">
+        <element display="true" label="オーダー番号" max_length="32" name="order_number" type="string"/>
+        <element choice="3" default="2" label="作業状況" max_length="40" name="state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="作業中" language="ja" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="作業完了" language="ja" sequence="1" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

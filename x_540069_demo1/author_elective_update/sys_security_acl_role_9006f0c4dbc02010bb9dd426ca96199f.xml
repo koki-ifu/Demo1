@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-19 07:17:29</sys_created_on>
+        <sys_id>9006f0c4dbc02010bb9dd426ca96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_540069_demo1.x_540069_demo1.demo1_line</sys_name>
+        <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+        <sys_security_acl display_value="">13f5bc08dbc02010bb9dd426ca961990</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9006f0c4dbc02010bb9dd426ca96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-19 07:17:29</sys_updated_on>
+        <sys_user_role display_value="x_540069_demo1.x_540069_demo1.demo1_line" name="x_540069_demo1.x_540069_demo1.demo1_line">a40e39dadbfb5010bb9dd426ca9619a6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</application>
+        <file_path/>
+        <instance_id>b43fe136dbf067006578f22ebf9619ff</instance_id>
+        <instance_name>dev71666</instance_name>
+        <name>sys_security_acl_role_9006f0c4dbc02010bb9dd426ca96199f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-19 07:17:29</sys_created_on><sys_id>9006f0c4dbc02010bb9dd426ca96199f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_540069_demo1.x_540069_demo1.demo1_line</sys_name><sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package><sys_policy/><sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope><sys_security_acl display_value="">13f5bc08dbc02010bb9dd426ca961990</sys_security_acl><sys_update_name>sys_security_acl_role_9006f0c4dbc02010bb9dd426ca96199f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-19 07:17:29</sys_updated_on><sys_user_role display_value="x_540069_demo1.x_540069_demo1.demo1_line" name="x_540069_demo1.x_540069_demo1.demo1_line">a40e39dadbfb5010bb9dd426ca9619a6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1663395334</payload_hash>
+        <record_name>.x_540069_demo1.x_540069_demo1.demo1_line</record_name>
+        <reverted_from/>
+        <source>0d0af91adbfb5010bb9dd426ca9619b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-19 07:17:29</sys_created_on>
+        <sys_id>a7263048dbc02010bb9dd426ca9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1753fb85ffe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-19 07:17:29</sys_updated_on>
+        <type>アクセス許可ロール</type>
+        <update_guid>ef263048cec020104d7e70fb3fdf28cc</update_guid>
+        <update_guid_history>ef263048cec020104d7e70fb3fdf28cc:1663395334</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_540069_demo1.x_540069_demo1.demo1_line">9f3e7ff8db802010bb9dd426ca9619d3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-22 05:46:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>27075bc107204f019c588c09b49781a1</sys_id>
+        <sys_metadata>9006f0c4dbc02010bb9dd426ca96199f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_540069_demo1.x_540069_demo1.demo1_line</sys_name>
+        <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+        <sys_parent display_value="">13f5bc08dbc02010bb9dd426ca961990</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+        <sys_scope_delete display_value="">8ffbf94d7d90410ebd5545d8723ebda4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9006f0c4dbc02010bb9dd426ca96199f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9006f0c4dbc02010bb9dd426ca96199f">a7263048dbc02010bb9dd426ca9619cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-22 05:46:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

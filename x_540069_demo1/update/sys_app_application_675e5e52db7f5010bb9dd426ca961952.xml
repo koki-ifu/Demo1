@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>デモオーダー管理アプリ</description>
+        <device_type>browser</device_type>
+        <hint>デモオーダー管理アプリ</hint>
+        <name/>
+        <order/>
+        <roles>x_540069_demo1.x_540069_demo1.admin,x_540069_demo1.x_540069_demo1.demo1_user,x_540069_demo1.x_540069_demo1.demo1_manager,x_540069_demo1.x_540069_demo1.demo1_router,x_540069_demo1.x_540069_demo1.demo1_line,x_540069_demo1.x_540069_demo1.demo1_network,x_540069_demo1.x_540069_demo1.demo1_server,x_540069_demo1.x_540069_demo1.demo1_storage</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 04:23:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>675e5e52db7f5010bb9dd426ca961952</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Demo1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+        <sys_update_name>sys_app_application_675e5e52db7f5010bb9dd426ca961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-22 07:50:50</sys_updated_on>
+        <title>Demo1</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
