@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>オーダーフローデモ</description>
+        <internal_name>demo1_demo1</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Demo1_Demo1</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 06:22:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78a9f2d2dbbf5010bb9dd426ca9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo1_Demo1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+        <sys_update_name>sys_hub_flow_78a9f2d2dbbf5010bb9dd426ca9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 06:22:27</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=78a9f2d2dbbf5010bb9dd426ca9619c8"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>78a9f2d2dbbf5010bb9dd426ca9619c8</documentkey>
+        <fieldname>annotation</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 06:22:27</sys_created_on>
+        <sys_id>b8a9f2d2dbbf5010bb9dd426ca9619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 06:22:27</sys_updated_on>
+        <tablename>sys_hub_flow</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_variable_value action="DELETE" query="document_key=78a9f2d2dbbf5010bb9dd426ca9619c8"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=78a9f2d2dbbf5010bb9dd426ca9619c8^sys_idNOT INf0a9b656dbbf5010bb9dd426ca961941"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>78a9f2d2dbbf5010bb9dd426ca9619c8</id>
+        <name>Demo1_Demo1</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 06:22:27</sys_created_on>
+        <sys_id>f0a9b656dbbf5010bb9dd426ca961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 06:22:27</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</application>
+        <file_path/>
+        <instance_id>b43fe136dbf067006578f22ebf9619ff</instance_id>
+        <instance_name>dev71666</instance_name>
+        <name>sys_hub_flow_78a9f2d2dbbf5010bb9dd426ca9619c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description>オーダーフローデモ</description><internal_name>demo1_demo1</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Demo1_Demo1</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-14 06:22:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>78a9f2d2dbbf5010bb9dd426ca9619c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo1_Demo1</sys_name><sys_overrides/><sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package><sys_policy/><sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope><sys_update_name>sys_hub_flow_78a9f2d2dbbf5010bb9dd426ca9619c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-14 06:22:27</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=78a9f2d2dbbf5010bb9dd426ca9619c8"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>78a9f2d2dbbf5010bb9dd426ca9619c8</documentkey><fieldname>annotation</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-14 06:22:27</sys_created_on><sys_id>b8a9f2d2dbbf5010bb9dd426ca9619ca</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-14 06:22:27</sys_updated_on><tablename>sys_hub_flow</tablename><value/></sys_translated_text><sys_variable_value action="delete_multiple" query="document_key=78a9f2d2dbbf5010bb9dd426ca9619c8"/><sys_flow_cat_variable_model action="delete_multiple" query="id=78a9f2d2dbbf5010bb9dd426ca9619c8^sys_idNOT INf0a9b656dbbf5010bb9dd426ca961941"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>78a9f2d2dbbf5010bb9dd426ca9619c8</id><name>Demo1_Demo1</name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-14 06:22:27</sys_created_on><sys_id>f0a9b656dbbf5010bb9dd426ca961941</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-14 06:22:27</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>475661824</payload_hash>
+        <record_name>Demo1_Demo1</record_name>
+        <reverted_from/>
+        <source>0d0af91adbfb5010bb9dd426ca9619b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 06:22:28</sys_created_on>
+        <sys_id>f8a9b656dbbf5010bb9dd426ca961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17525c634d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 06:22:28</sys_updated_on>
+        <type>フロー</type>
+        <update_guid>34a9b65643bf50102978e5ef4c0ce944</update_guid>
+        <update_guid_history>34a9b65643bf50102978e5ef4c0ce944:475661824,f0a9b65688bf5010a35e497d3cd12540:-431937969</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 06:25:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>5d62da5450c64131be78e30fedbc80d1</sys_id>
+        <sys_metadata>78a9f2d2dbbf5010bb9dd426ca9619c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo1_Demo1</sys_name>
+        <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+        <sys_scope_delete display_value="">8ffbf94d7d90410ebd5545d8723ebda4</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_78a9f2d2dbbf5010bb9dd426ca9619c8</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_78a9f2d2dbbf5010bb9dd426ca9619c8">f8a9b656dbbf5010bb9dd426ca961944</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 06:25:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

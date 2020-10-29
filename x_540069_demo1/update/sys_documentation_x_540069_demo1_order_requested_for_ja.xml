@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="requested_for" label="依頼者" language="ja" table="x_540069_demo1_order">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <help/>
+            <hint/>
+            <label>依頼者</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <plural>依頼者s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-22 03:00:50</sys_created_on>
+            <sys_id>d138d370db402010bb9dd426ca9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>依頼者</sys_name>
+            <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_540069_demo1_order_requested_for_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-22 03:00:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Demo1" max_length="40" name="x_540069_demo1_order" sizeclass="6" type="collection">
+        <element label="上長コメント" max_length="32" name="comment" reference="sysapproval_approver" type="reference"/>
+        <element label="詳細" max_length="400" name="descriptions" type="string"/>
+        <element choice="3" default="1" label="ネットワーク状況" max_length="40" name="network_state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="未処理" language="ja" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="処理中" language="ja" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="処理完了" language="ja" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="処理不要" language="ja" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" default="javascript:gs.getUserDisplayName();" label="依頼者" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element choice="3" default="4" label="処理状況" max_length="40" name="request_state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="承認待ち" language="ja" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="処理待ち" language="ja" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="完了" language="ja" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="未依頼" language="ja" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="処理済み" language="ja" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="storage_server_network" label="オーダー内容" mandatory="true" max_length="40" name="request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="サーバ・ストレージ・ネットワーク" language="ja" sequence="0" value="storage_server_network"/>
+                <element inactive_on_update="false" label="ストレージ" language="ja" sequence="1" value="storage"/>
+                <element inactive_on_update="false" label="サーバ" language="ja" sequence="2" value="server"/>
+                <element inactive_on_update="false" label="ネットワーク" language="ja" sequence="3" value="network"/>
+            </choice>
+        </element>
+        <element choice="3" default="1" label="サーバ状況" max_length="40" name="server_state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="未処理" language="ja" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="処理中" language="ja" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="処理完了" language="ja" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="処理不要" language="ja" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element choice="3" default="1" label="ストレージ状況" max_length="40" name="storage_state" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="未処理" language="ja" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="処理中" language="ja" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="処理完了" language="ja" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="処理不要" language="ja" sequence="3" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>

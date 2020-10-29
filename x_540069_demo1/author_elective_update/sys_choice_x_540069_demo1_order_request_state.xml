@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="request_state" table="x_540069_demo1_order" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_state</element>
+            <name>x_540069_demo1_order</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 04:49:09</sys_created_on>
+            <sys_id>42446256db7f5010bb9dd426ca961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>request_state</sys_name>
+            <sys_package display_value="Demo1" source="x_540069_demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo1">c90af91adbfb5010bb9dd426ca9619ae</sys_scope>
+            <sys_update_name>sys_choice_x_540069_demo1_order_request_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-14 04:49:09</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>承認待ち</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 04:49:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbb3a656db7f5010bb9dd426ca96196d</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-14 04:50:15</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>処理待ち</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 04:51:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4644ea56db7f5010bb9dd426ca9619e4</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-29 02:10:21</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>完了</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 04:53:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66c42e56db7f5010bb9dd426ca9619a9</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-14 04:53:38</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>未依頼</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 06:32:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8cb3296dbbf5010bb9dd426ca961952</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-14 06:32:28</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>処理済み</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-29 02:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d18ccf07dbc8a010bb9dd426ca96197a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-29 02:02:15</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
