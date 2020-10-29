@@ -40,7 +40,7 @@
             <element>request_state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>作業待ち</label>
+            <label>処理待ち</label>
             <language>ja</language>
             <name>x_540069_demo1_order</name>
             <sequence>1</sequence>
@@ -49,9 +49,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4644ea56db7f5010bb9dd426ca9619e4</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-14 04:51:35</sys_updated_on>
+            <sys_updated_on>2020-10-29 02:10:21</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -91,6 +91,25 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-10-14 06:32:28</sys_updated_on>
             <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>処理済み</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-29 02:02:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d18ccf07dbc8a010bb9dd426ca96197a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-29 02:02:15</sys_updated_on>
+            <value>5</value>
         </sys_choice>
     </sys_choice>
 </record_update>

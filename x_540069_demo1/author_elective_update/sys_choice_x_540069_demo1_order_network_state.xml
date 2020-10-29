@@ -21,7 +21,7 @@
             <element>network_state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>未作業</label>
+            <label>未処理</label>
             <language>ja</language>
             <name>x_540069_demo1_order</name>
             <sequence>0</sequence>
@@ -30,9 +30,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>70fb97e0db40a010bb9dd426ca961919</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-21 08:39:30</sys_updated_on>
+            <sys_updated_on>2020-10-29 02:13:16</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -40,7 +40,7 @@
             <element>network_state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>作業中</label>
+            <label>処理中</label>
             <language>ja</language>
             <name>x_540069_demo1_order</name>
             <sequence>1</sequence>
@@ -49,9 +49,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5edb57e0db40a010bb9dd426ca9619f8</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-21 08:38:52</sys_updated_on>
+            <sys_updated_on>2020-10-29 02:12:55</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -59,7 +59,7 @@
             <element>network_state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>作業完了</label>
+            <label>処理完了</label>
             <language>ja</language>
             <name>x_540069_demo1_order</name>
             <sequence>2</sequence>
@@ -68,10 +68,29 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>39eb13e0db40a010bb9dd426ca9619d8</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-21 08:39:11</sys_updated_on>
+            <sys_updated_on>2020-10-29 02:13:02</sys_updated_on>
             <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>network_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>処理不要</label>
+            <language>ja</language>
+            <name>x_540069_demo1_order</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-27 08:39:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68a5d6eadbc06010bb9dd426ca961964</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-29 02:12:49</sys_updated_on>
+            <value>4</value>
         </sys_choice>
     </sys_choice>
 </record_update>
